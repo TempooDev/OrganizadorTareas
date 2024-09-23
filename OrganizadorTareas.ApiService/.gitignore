@@ -10,8 +10,8 @@
 .AppleDouble
 .LSOverride
 */.DS_Store
-*/bin
-*/obj
+*/bin/
+*/obj/
 
 # Icon must end with two \r
 Icon
@@ -262,8 +262,8 @@ _pkginfo.txt
 !?*.[Cc]ache/
 
 # Others
-**/bin
-**/obj
+**/bin/
+**/obj/
 ClientBin/
 ~$*
 *~
